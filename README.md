@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 B.Tech Data Science & AI @ IIIT Dharwad | CGPA 9.48 | Reliance Scholar 2023<br><br>🔬 Undergraduate Researcher — building a voice OTP authentication pipeline<br>   with speaker verification (ECAPA-TDNN) + Conformer ASR at IIIT Dharwad<br><br>💼 AI & ML Intern @ Vocab.ai — integrating ML models into production via FastAPI microservices<br><br>🛠️ I love turning research ideas into real systems —<br>   from scalable backend platforms to multimodel pipelines<br><br>⚡ Tech I work with:<br>   Python · FastAPI · PyTorch · PostgreSQL · Redis · Docker · AWS · Kafka<br><br>🌱 Currently leveling up in:<br>   ML infrastructure · Distributed systems · Backend optimisation<br><br>✍️ Beyond code — dancer 💃 · singer 🎵 · poet 📝 · sketcher 🎨<br>   I write on Women Empowerment (Medium), Blockchain (X),<br>   and run a dance page on Instagram & YouTube<br><br>🤝 Always open to connect on AI, ML & emerging tech!<br>   📬 avishiagrawal0309@gmail.com
 
 
